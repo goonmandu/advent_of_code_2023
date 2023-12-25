@@ -1,0 +1,8 @@
+# gitignore preset for Python
+.idea
+.DS_Store
+*venv/
+__pycache__
+
+# Project-specifics
+# *.txt  MAYBE IGNORE INPUT FILES?
